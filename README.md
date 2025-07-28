@@ -23,4 +23,4 @@ I’m interested in research-driven backend development — where **engineering 
 
 I treat backend systems as **living experiments** — not just to make them faster, but to understand **why** they behave the way they do under stress, scale, or failure.
 
-> I’m especially passionate about bringing the mindset of **research** into everyday software engineering: hypothesis, measurement, iteration.
+I’m especially passionate about bringing the mindset of **research** into everyday software engineering: hypothesis, measurement, iteration.
