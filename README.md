@@ -7,10 +7,10 @@ I explore the intersection of software engineering, distributed systems, and sca
 
 ### Research Interests
 
-- High-performance backend architectures using **Java** and **Spring Boot**
+- High-performance backend architectures
 - Observability and performance benchmarking in distributed systems
-- Message queues, streaming systems, and event-driven design (Kafka, RabbitMQ)
+- Message queues, streaming systems, and event-driven design
 - Experimental design for systems performance (load testing, profiling, etc.)
--  Cloud-native backend infrastructure, CI/CD, and containerized deployments
+- Cloud-native backend infrastructure, CI/CD, and containerized deployments
 
 ---
