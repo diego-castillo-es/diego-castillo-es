@@ -1,7 +1,6 @@
 # Diego Castillo
 
-**Backend Systems Researcher & Software Developer** from Spain  
-I explore the intersection of software engineering, distributed systems, and scalable backend design.
+**Backend Systems Researcher & Software Developer** from Spain. I explore the intersection of software engineering, distributed systems, and scalable backend design.
 
 ### Research Interests
 
